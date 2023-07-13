@@ -32,52 +32,52 @@ You can see all the listings here.
 
 In about page, you can see about the company, top sellers and listed sellers.
 
-![Real-Estate-About](https://user-images.githubusercontent.com/71542496/126949090-f83bf783-1330-4e0c-96b9-8e37a2af0c87.png)
+![Real-Estate-About](https://github.com/LadyHazle2010/capstone/blob/main/images/About.png)
 
 ### 4. Contact Page
 
 There is a seperate contact page from where you can contact to the company. You will also get response email after sending messages.
 
-![Real-Estate-Contact](https://user-images.githubusercontent.com/71542496/126949256-9adc748c-5cbc-435e-8b5d-f2839295b35a.png)
+![Real-Estate-Contact](https://github.com/LadyHazle2010/capstone/blob/main/images/Contact.png)
 
 ### 5. Login and Signup Page
 
 You need an account to view the details page and make order. For that you just need to go to Signup page and create an account.
 
-![Real-Estate-Signup](https://user-images.githubusercontent.com/71542496/126949535-ab52f3cc-808a-4d50-91cf-2d1392a0f922.png)
+![Real-Estate-Signup](https://github.com/LadyHazle2010/capstone/blob/main/images/Signup.png)
 
-![Real-Estate-Login](https://user-images.githubusercontent.com/71542496/126949599-60a26190-55d2-4110-aeb2-15ca19b34f07.png)
+![Real-Estate-Login](https://github.com/LadyHazle2010/capstone/blob/main/images/Login.png)
 
 ### 6. Details Page
 
 You can view the details page after logging in. You can see the complete details about the house/condo/townhouse in this page. You can also see the images and description of those and about the seller also. You can also contact the seller directly from the contact section.
 If you want to buy, then you just need to click on "BUY NOW" button.
 
-![Real-Estate-Ocean-Home](https://user-images.githubusercontent.com/71542496/126949836-3075241c-b9fe-475c-9ad1-776f18642921.png)
+![Real-Estate-Ocean-Home](https://github.com/LadyHazle2010/capstone/blob/main/images/Detail.png)
 
 ### 7. Buy Page
 
 You can use "DISCOUNT100" coupon to buy that item. If you could buy that item successfully, then you will get confirmation message there only.
 
-![Real-Estate-Ocean-Home-Buy](https://user-images.githubusercontent.com/71542496/126950250-fe9191b6-a37d-4772-acc3-6a62bef1301a.png)
+![Real-Estate-Ocean-Home-Buy](https://github.com/LadyHazle2010/capstone/blob/main/images/Buy.png)
 
 ### 8. Profile Page
 
 In profile page, you can see about your info as well as the orders you have made. You can see your buyings on clicking on the Item Name coloured in blue.
 
-![Real-Estate-Profile](https://user-images.githubusercontent.com/71542496/126950607-61d81403-7579-442e-b8e1-1d7a94190bd2.png)
+![Real-Estate-Profile](https://github.com/LadyHazle2010/capstone/blob/main/images/Profile.png)
 
 ### 9. Brought Page
 
 You can see full details about what you have brought.
 
-![Real-Estate-River-Side-House](https://user-images.githubusercontent.com/71542496/126950796-a1698fdb-b48b-418d-aaea-91cc8dc77fbf.png)
+![Real-Estate-River-Side-House](https://github.com/LadyHazle2010/capstone/blob/main/images/Brought.png)
 
 ### 10. Admin Page
 
 From the admin page, you can manage almost all things.
 
-![Real Estate - Admin](https://user-images.githubusercontent.com/71542496/126960020-9c794376-fba4-4a5f-8bb4-1e47a263dcbb.png)
+![Real Estate - Admin](https://github.com/LadyHazle2010/capstone/blob/main/images/Admin.png)
 
 ## Thank You
 
