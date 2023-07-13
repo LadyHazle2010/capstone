@@ -8,7 +8,7 @@ const Heading = () => {
       <div className="heading">
         <h1 className="text-center font-weight-bolder brand-heading">
           <Link exact to="/">
-            Welcome to Tierra's Real Estate
+            Welcome to River Rock Real Estate
           </Link>
         </h1>
       </div>
