@@ -1,5 +1,5 @@
 """
-ASGI config for real_estate_backend project.
+ASGI config for real_estate project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

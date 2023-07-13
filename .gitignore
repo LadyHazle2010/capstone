@@ -1,5 +1,5 @@
 # Ignored Folders
 node_modules/
 build/
-venv/
+env/
 __pycache__/
